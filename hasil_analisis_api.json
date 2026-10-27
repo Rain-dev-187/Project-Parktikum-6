@@ -1,0 +1,109 @@
+{
+  "total_user": 10,
+  "total_post": 100,
+  "rata_rata_post_per_user": 10.0,
+  "daftar_nama_user": [
+    "Leanne Graham",
+    "Ervin Howell",
+    "Clementine Bauch",
+    "Patricia Lebsack",
+    "Chelsey Dietrich",
+    "Mrs. Dennis Schulist",
+    "Kurtis Weissnat",
+    "Nicholas Runolfsdottir V",
+    "Glenna Reichert",
+    "Clementina DuBuque"
+  ],
+  "daftar_email_user": [
+    "Sincere@april.biz",
+    "Shanna@melissa.tv",
+    "Nathan@yesenia.net",
+    "Julianne.OConner@kory.org",
+    "Lucio_Hettinger@annie.ca",
+    "Karley_Dach@jasper.info",
+    "Telly.Hoeger@billy.biz",
+    "Sherwood@rosamond.me",
+    "Chaim_McDermott@dana.io",
+    "Rey.Padberg@karina.biz"
+  ],
+  "user_email_biz": [
+    "Leanne Graham",
+    "Kurtis Weissnat",
+    "Clementina DuBuque"
+  ],
+  "peringkat_user_berdasarkan_jumlah_post": [
+    {
+      "id": 5,
+      "nama": "Chelsey Dietrich",
+      "kota": "Roscoeview",
+      "jumlah_post": 10
+    },
+    {
+      "id": 10,
+      "nama": "Clementina DuBuque",
+      "kota": "Lebsackbury",
+      "jumlah_post": 10
+    },
+    {
+      "id": 3,
+      "nama": "Clementine Bauch",
+      "kota": "McKenziehaven",
+      "jumlah_post": 10
+    },
+    {
+      "id": 2,
+      "nama": "Ervin Howell",
+      "kota": "Wisokyburgh",
+      "jumlah_post": 10
+    },
+    {
+      "id": 9,
+      "nama": "Glenna Reichert",
+      "kota": "Bartholomebury",
+      "jumlah_post": 10
+    },
+    {
+      "id": 7,
+      "nama": "Kurtis Weissnat",
+      "kota": "Howemouth",
+      "jumlah_post": 10
+    },
+    {
+      "id": 1,
+      "nama": "Leanne Graham",
+      "kota": "Gwenborough",
+      "jumlah_post": 10
+    },
+    {
+      "id": 6,
+      "nama": "Mrs. Dennis Schulist",
+      "kota": "South Christy",
+      "jumlah_post": 10
+    },
+    {
+      "id": 8,
+      "nama": "Nicholas Runolfsdottir V",
+      "kota": "Aliyaview",
+      "jumlah_post": 10
+    },
+    {
+      "id": 4,
+      "nama": "Patricia Lebsack",
+      "kota": "South Elvis",
+      "jumlah_post": 10
+    }
+  ],
+  "user_paling_produktif": "Chelsey Dietrich",
+  "judul_post_user_paling_produktif": [
+    "non est facere",
+    "commodi ullam sint et excepturi error explicabo praesentium voluptas",
+    "eligendi iste nostrum consequuntur adipisci praesentium sit beatae perferendis",
+    "optio dolor molestias sit",
+    "ut numquam possimus omnis eius suscipit laudantium iure",
+    "aut quo modi neque nostrum ducimus",
+    "quibusdam cumque rem aut deserunt",
+    "ut voluptatem illum ea doloribus itaque eos",
+    "laborum non sunt aut ut assumenda perspiciatis voluptas",
+    "repellendus qui recusandae incidunt voluptates tenetur qui omnis exercitationem"
+  ]
+}
