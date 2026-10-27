@@ -33,6 +33,24 @@ Instal library untuk Soal 5 (jika belum ada):
 pip install requests
 ```
 
+## Bukti Hasil Run
+
+**Soal Praktik 1 dan 2:**
+
+![Bukti Soal 1-2](bukti_praktikum_soal1-2.png)
+
+**Soal Praktik 3:**
+
+![Bukti Soal 3](bukti_praktikum_soal3.png)
+
+**Soal Praktik 4:**
+
+![Bukti Soal 4](bukti_praktikum_soal4.png)
+
+**Soal Praktik 5:**
+
+![Bukti Soal 5](bukti_praktikum_soal5.png)
+
 ---
 
 # Jawaban Soal Teori
