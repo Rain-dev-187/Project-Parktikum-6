@@ -37,19 +37,22 @@ pip install requests
 
 **Soal Praktik 1 dan 2:**
 
-![Bukti Soal 1-2](bukti_praktikum_soal1-2.png)
+<img width="1312" height="813" alt="WhatsApp Image 2026-10-27 at 10 49 09" src="https://github.com/user-attachments/assets/cd920da8-66cb-4ec3-9f62-0e39b7567811" />
 
 **Soal Praktik 3:**
 
-![Bukti Soal 3](bukti_praktikum_soal3.png)
+<img width="694" height="1515" alt="WhatsApp Image 2026-10-27 at 10 49 10" src="https://github.com/user-attachments/assets/e51fe632-0892-4f77-bf04-8c1f2c7cf81e" />
+
 
 **Soal Praktik 4:**
 
-![Bukti Soal 4](bukti_praktikum_soal4.png)
+<img width="1220" height="813" alt="WhatsApp Image 2026-10-27 at 10 49 10 (1)" src="https://github.com/user-attachments/assets/d5d850f3-6ec5-4e2c-aab5-37e29ad0a2fd" />
+
 
 **Soal Praktik 5:**
 
-![Bukti Soal 5](bukti_praktikum_soal5.png)
+<img width="946" height="678" alt="WhatsApp Image 2026-10-27 at 10 49 10 (2)" src="https://github.com/user-attachments/assets/5db41c9d-0a69-40e3-8d3c-65855aecd12d" />
+
 
 ---
 
